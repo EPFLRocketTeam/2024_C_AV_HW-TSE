@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPD2E1B06DRLR
+#/755095/1342058/2.50/6/3/TVS Diode (Bi-directional)
+DEF TPD2E1B06DRLR D 0 30 Y Y 1 F N
+F0 "D" 950 300 50 H V L CNN
+F1 "TPD2E1B06DRLR" 950 200 50 H V L CNN
+F2 "SOTFL50P160X60-6N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tpd2e1b06" 950 0 50 H I L CNN
+F4 "2-Channel System-Level ESD Protection Device for USB Interfaces" 950 -100 50 H I L CNN "Description"
+F5 "0.6" 950 -200 50 H I L CNN "Height"
+F6 "595-TPD2E1B06DRLR" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD2E1B06DRLR?qs=xahoIJ7Tb4DMFivl%252BjotBg%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPD2E1B06DRLR" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X IOA1 1 0 0 200 R 50 50 0 0 P
+X IOB1 2 0 -100 200 R 50 50 0 0 P
+X NC_1 3 0 -200 200 R 50 50 0 0 P
+X IOB2 4 1100 0 200 L 50 50 0 0 P
+X IOA2 5 1100 -100 200 L 50 50 0 0 P
+X NC_2 6 1100 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

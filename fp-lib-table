@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LT3960")(type "KiCad")(uri "${KIPRJMOD}/syms/LT3960.pretty")(options "")(descr ""))
+  (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/syms/Teensy.pretty")(options "")(descr ""))
+  (lib (name "TPD2E1B06DRLR")(type "KiCad")(uri "${KIPRJMOD}/syms/TPD2E1B06DRLR.pretty")(options "")(descr ""))
+  (lib (name "TPD4E1B06DRLR")(type "KiCad")(uri "${KIPRJMOD}/syms/TPD4E1B06DRLR.pretty")(options "")(descr ""))
+  (lib (name "G17C0910132EU")(type "KiCad")(uri "${KIPRJMOD}/syms/G17C0910132EU.pretty")(options "")(descr ""))
+)

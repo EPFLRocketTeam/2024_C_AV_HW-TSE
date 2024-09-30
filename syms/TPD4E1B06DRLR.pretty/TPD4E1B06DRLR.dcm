@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD4E1B06DRLR
+D Bidirectional Quad-Channel High-Speed ESD Protection Device
+K
+F http://www.ti.com/lit/ds/symlink/tpd4e1b06.pdf
+$ENDCMP
+#
+#End Doc Library

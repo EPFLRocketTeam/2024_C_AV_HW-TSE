@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD2E1B06DRLR
+D 2-Channel System-Level ESD Protection Device for USB Interfaces
+K
+F http://www.ti.com/lit/gpn/tpd2e1b06
+$ENDCMP
+#
+#End Doc Library

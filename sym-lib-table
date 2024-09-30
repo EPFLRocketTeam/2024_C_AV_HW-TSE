@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LT3960")(type "KiCad")(uri "${KIPRJMOD}/syms/LT3960.kicad_sym")(options "")(descr ""))
+  (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/syms/Teensy.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD2E1B06DRLR")(type "KiCad")(uri "${KIPRJMOD}/syms/TPD2E1B06DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPD4E1B06DRLR")(type "KiCad")(uri "${KIPRJMOD}/syms/TPD4E1B06DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "G17C0910132EU")(type "KiCad")(uri "${KIPRJMOD}/syms/G17C0910132EU.kicad_sym")(options "")(descr ""))
+)
